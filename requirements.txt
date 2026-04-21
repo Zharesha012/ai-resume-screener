@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+spacy
+pdfplumber
+
+install these libraries to run project
+
+later you can run 
+pip install -r requirements.txt
