@@ -1,5 +1,6 @@
 import pdfplumber
-
+import spacy
+nlp = spacy.load("en_core_web_sm")
 SKILLS = [
     "python","java","sql","html","css","javascript",
     "react","node","machine learning","deep learning",
