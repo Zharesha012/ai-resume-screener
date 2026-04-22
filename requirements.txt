@@ -3,8 +3,4 @@ pandas
 scikit-learn
 spacy
 pdfplumber
-
-install these libraries to run project
-
-later you can run 
-pip install -r requirements.txt
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
